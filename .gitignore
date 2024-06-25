@@ -1,14 +1,14 @@
-# Ignore Python bytecode
+# Ignore os arquivos bytecode do Python, que são gerados automaticamente durante a execução
 __pycache__/
 *.py[cod]
 
-# Ignore environment variables file
+# Ignore o arquivo de variáveis de ambiente, que pode conter informações sensíveis
 .env
 
-# Ignore the .pypirc file which contains the PyPI token
+# Ignore o arquivo .pypirc, que contém o token de API do PyPI, para evitar exposição de credenciais
 .pypirc
 
-# Ignore distribution files
+# Ignore os arquivos de distribuição gerados durante o processo de empacotamento
 dist/
 build/
 *.egg-info/

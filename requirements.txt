@@ -1,1 +1,8 @@
+# Pandas é uma biblioteca de software escrita para a linguagem de programação Python para manipulação e análise de dados.
+# Pandas é uma biblioteca essencial para análise e manipulação de dados em Python. Ela fornece estruturas de dados e funções 
+# para trabalhar facilmente com dados tabulares, como DataFrames, e oferece funcionalidades avançadas para leitura e escrita de dados em diferentes formatos, como CSV, Excel, SQL, e mais
+
 pandas
+
+# O arquivo requirements.txt lista as dependências do projeto que devem ser instaladas para garantir que o ambiente de desenvolvimento e execução esteja configurado corretamente. Para instalar as dependências listadas nesse arquivo, você pode usar o comando:
+# pip install -r requirements.txt
