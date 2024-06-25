@@ -1,0 +1,14 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore environment variables file
+.env
+
+# Ignore the .pypirc file which contains the PyPI token
+.pypirc
+
+# Ignore distribution files
+dist/
+build/
+*.egg-info/
